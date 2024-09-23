@@ -10,5 +10,4 @@ This program offers an entertaining version of Wordle while establishing familia
 2) Build and run `Dockerfile`
 3) Configure the tests in the `test_files` subdirectory
 4) Run `test_wordle.py`
-5) Run `wordle.py` and `real_wordle.py`
-6) 
+5) Run `wordle.py` and `real_wordle.py` 
