@@ -7,7 +7,7 @@ Users aim to guess a secret word with a specified number of attempts. After each
 ## Application
 This program offers an entertaining version of Wordle while establishing familiarity with the command-line.
 
-# Download and Run
+## Download and Run
 1) Download and extract the [root directory](https://github.com/caydnbaldwin/Wordle/archive/refs/heads/main.zip)
 2) Build and run `Dockerfile`
 3) Configure the tests in the `test_files` subdirectory
