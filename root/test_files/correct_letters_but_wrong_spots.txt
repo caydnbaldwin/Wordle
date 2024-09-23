@@ -1,0 +1,4 @@
+Guess # ``1;guess-1;10``: 
+<<enrca>>
+``?????;question marks;80``
+Maybe next time. The answer is ``crane;secret;10``.

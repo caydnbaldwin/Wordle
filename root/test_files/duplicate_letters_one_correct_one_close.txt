@@ -1,0 +1,4 @@
+Guess # ``1;guess-1;10``: 
+<<tooth>>
+``*?!**;mixed;70``
+Maybe next time. The answer is ``slope;secret;10``.

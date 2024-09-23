@@ -1,0 +1,7 @@
+Guess # 1: 
+<<12345>>
+``*****;numbers;40``
+Guess # 2: 
+<<!@#$%>>
+``*****;symbols;40``
+Maybe next time. The answer is crane.

@@ -1,0 +1,10 @@
+Guess # 1: 
+<<vwxyz>>
+``*****;all-wrong;30``
+Guess # 2: 
+<<tolls>>
+``*****;all-wrong-again;30``
+Guess # 3: 
+<<mushy>>
+``*****
+Maybe next time. The answer is crane.;all-wrong-loss;30``

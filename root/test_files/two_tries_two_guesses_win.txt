@@ -1,0 +1,7 @@
+Guess # 1: 
+<<vwxyz>>
+``*****;all wrong;40``
+Guess # 2: 
+<<crane>>
+``!!!!!;all right;40``
+Way to go!

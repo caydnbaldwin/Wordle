@@ -1,0 +1,16 @@
+Guess # ``1;guess-1;2``: 
+<<slice>>
+``?***?;1st-guess;15``
+Guess # ``2;guess-2;2``: 
+<<races>>
+``***!?;2nd-guess;15``
+Guess # ``3;guess-3;2``: 
+<<posed>>
+``?*!!*;3rd-guess;15``
+Guess # ``4;guess-4;2``: 
+<<apsen>>
+``*!!!*;4th-guess;15``
+Guess # ``5;guess-5;2``: 
+<<upset>>
+``!!!!!;5th-guess;15``
+Way to go!

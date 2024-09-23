@@ -1,0 +1,13 @@
+Guess # 1: 
+<<fghij>>
+``*****;incorrect;20``
+Guess # 2: 
+<<edabc>>
+``?????;close;20``
+Guess # 3: 
+<<zyxwv>>
+``*****;incorrect-again;20``
+Guess # 4: 
+<<abcde>>
+``!!!!!;correct;20``
+Way to go!
